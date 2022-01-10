@@ -1,5 +1,7 @@
 package com.example.cryptonews
 
+
+
 data class NewsResponse(
     val Data: List<Data>,
     val HasWarning: Boolean,
